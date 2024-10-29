@@ -1,10 +1,10 @@
 <h1 align="center">Hi , I'm Bravo Gabriel Agustin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
-<p>
-	I'm a 25 years old from Córdoba, Argentina. I’m passionate about building software that makes an impact and constantly pushing 	my skills to new levels.
+<p align="center">
+	I'm a 25-years-old from Córdoba, Argentina. I’m passionate about building software that makes an impact and constantly pushing 	my skills to new levels.
 </p>
-<h2 align="start">My skills include</h2>
-		<h4>Languages</h4>
+<h2 align="start">My skills include 🛠️</h2>
+		<h4>Languages 💻</h4>
  	  <div> 
 		<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
@@ -12,7 +12,7 @@
   		<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     		<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a> 
 	  </div>
-		<h4>Frameworks<h4>
+		<h4>Frameworks 🚀<h4>
 			<div>
 				<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
 				<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
@@ -21,7 +21,7 @@
 				<img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"></a>
 			</div>
 			<div>
-				<h4>Problem Solving on Codewars</h4>	
+				<h4>Problem Solving on Codewars 🧩</h4>	
 			</div>
 			<img src="https://www.codewars.com/users/bravoagustin/badges/large">
 	<div align="center">
